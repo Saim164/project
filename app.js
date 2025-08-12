@@ -1,3 +1,3 @@
 const nme ="saim";
 
-console.log(nme);
+console.log(11111);
