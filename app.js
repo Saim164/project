@@ -1,1 +1,3 @@
-const name ="saim";
+const nme ="saim";
+
+console.log(nme);
